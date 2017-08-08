@@ -1,14 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400');
+
 body {
 	padding: 30px;
 	background-color: #e0c;
-}
-
-.header {
-	background-image: url("images/lemons.jpeg");
+	font-family: 'Montserrat', sans-serif;
 }
 
 .container {
 	background-color: #fff;
+}
+
+.col-md-6 {
+	text-align: right;
+	text-transform: uppercase;
 }
 
 hr.style4 {
@@ -21,12 +25,14 @@ hr.style4 {
 
 h1 {
 	text-align: right;
+	letter-spacing: 3px;
 	color: #fff;
 	text-shadow: 4px 4px 8px #29f
 }
 
 h4 {
 	text-align: right;
+	letter-spacing: 1px;
 	text-transform: uppercase;
 	font-weight: 200;
 	color: #fff;
@@ -46,8 +52,7 @@ h4 {
 }
 
 h3 {
-	color: #a9a;
-	text-shadow: 4px 4px 8px #29f
+	color: #000
 }
 
 p {
