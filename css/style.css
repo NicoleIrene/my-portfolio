@@ -1,7 +1,56 @@
+body {
+	padding: 30px;
+	background-color: #e0c;
+}
+
+.container {
+	background-color: #fff;
+}
+
 hr.style4 {
-	border-top: 1px dotted #8c8b8b;
+	border-top: 1px dotted #888;
 	width: 100%;
 }
 .center-block {
 	width: 100%;
+}
+
+h1 {
+	text-align: right;
+	color: #fff;
+	text-shadow: 4px 4px 8px #29f
+}
+
+h4 {
+	text-align: right;
+	text-transform: uppercase;
+	font-weight: 200;
+	color: #fff;
+	text-shadow: 3px 3px 6px #e0c
+}
+
+.text-thin {
+	font-weight: 100;
+}
+
+.title-super {
+	font-size: 60px;
+}
+
+.fa-bolt {
+	color: #fe2;
+}
+
+h3 {
+	color: #a9a;
+	text-shadow: 4px 4px 8px #29f
+}
+
+p {
+	color: #000;
+	text-shadow: 3px 3px 6px #f2b 
+}
+
+a {
+	color:#a4f;
 }
