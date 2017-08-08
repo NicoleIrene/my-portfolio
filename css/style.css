@@ -3,6 +3,10 @@ body {
 	background-color: #e0c;
 }
 
+.header {
+	background-image: url("images/lemons.jpeg");
+}
+
 .container {
 	background-color: #fff;
 }
