@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400');
+@import url(https://fonts.googleapis.com/css?family=Montserrat:300,400);
 
 body {
 	padding: 30px;
 	background-color: #e0c;
-	font-family: 'Montserrat', sans-serif;
+	font-family: "Montserrat", sans-serif;
 }
 
 .container {
@@ -15,10 +15,10 @@ body {
 	text-transform: uppercase;
 }
 
-hr.style4 {
-	border-top: 1px dotted #888;
-	width: 100%;
+.hr-rule {
+	border: 1px dotted #000;
 }
+
 .center-block {
 	width: 100%;
 }
@@ -61,5 +61,5 @@ p {
 }
 
 a {
-	color:#a4f;
+	color: #a4f;
 }
